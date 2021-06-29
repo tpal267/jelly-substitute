@@ -1,0 +1,10 @@
+﻿{
+  "Name": "SubstituteJelly",
+  "Author": "tpal267",
+  "Version": "1.0.0",
+  "Description": "Prevents spouse jealousy dialog from playing and negates the friendship penalty.",
+  "UniqueID": "tpal267.SubstituteJelly",
+  "EntryDll": "SubstituteJelly.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}
