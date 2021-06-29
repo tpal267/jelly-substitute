@@ -1,0 +1,6 @@
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\obj\Debug\SubstituteJelly.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\bin\Debug\SubstituteJelly.dll
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\bin\Debug\SubstituteJelly.pdb
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\obj\Debug\SubstituteJelly.dll
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\obj\Debug\SubstituteJelly.pdb
+C:\Users\thoma\source\repos\JellySubstitute\JellySubstitute\obj\Debug\SubstituteJelly.csprojResolveAssemblyReference.cache
